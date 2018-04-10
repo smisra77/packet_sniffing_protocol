@@ -1,0 +1,606 @@
+
+Packet Count# 1
+Packet size: 175 bytes
+Timestamp: 1384042141:26832 seconds
+Source Port: 9409 Destination Port: 27655 
+Source Address: 192.168.1.112 Destination Address: 192.168.1.112 
+Sequence Number: 1188990208 Acknowledgment Number: 1163078989 
+
+Payload Size 125 bytes:
+ * HTTP/1.1..Host:239.255.255.250:1900..ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1..Man:"ssdp:discover"..MX:3....
+Packet Count# 2
+Packet size: 175 bytes
+Timestamp: 1384042142:766477 seconds
+Source Port: 29141 Destination Port: 27655 
+Source Address: 192.168.1.111 Destination Address: 192.168.1.111 
+Sequence Number: 4207512832 Acknowledgment Number: 1163078989 
+
+Payload Size 125 bytes:
+ * HTTP/1.1..Host:239.255.255.250:1900..ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1..Man:"ssdp:discover"..MX:3....
+Packet Count# 3
+Packet size: 175 bytes
+Timestamp: 1384042144:2709 seconds
+Source Port: 9409 Destination Port: 27655 
+Source Address: 192.168.1.112 Destination Address: 192.168.1.112 
+Sequence Number: 1188990208 Acknowledgment Number: 1163078989 
+
+Payload Size 125 bytes:
+ * HTTP/1.1..Host:239.255.255.250:1900..ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1..Man:"ssdp:discover"..MX:3....
+Packet Count# 4
+Packet size: 1273 bytes
+Timestamp: 1384042145:257869 seconds
+Source Port: 41929 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 3165524360 Acknowledgment Number: 2826939394 
+
+Payload Size 1207 bytes:
+.....V.....>>..........).V..2.K..i......W.R....:...~.Qx0.=.../.r.6V.r3S...|N.......|.0.....4......>.......C(S...t....".N...T..d$.......wm..^..XO1{l../.lO1"$v.......m0Xe.1\].[.+../H.a.....}.b....?..v.....#;.C......dQ...V.@.._....s.oC..Q....N"p ......q1......H..m.s..r.....I........C..;.".=&]0...O.,.(.....f.jD....L.(...}i.MT7...D.D.h.._.....W.C6.{.. q[..d.x....5.....]@7......G.u..L....V?....z...?.L.uj...{r.....!..g..>..#:7W..(K.:U.;...c..&...(*i6;......$8..d>....-...&..{?*.Hj.R.a...O<...^...o%.......\...A .P....[.......8.&..T..:.~..V...{.NO......v..Z....N...J..(L.......w..[_k...Q.v...a...@./p...{.=..]w.T&........R..G.).f.....Q..nN..Od.....`..i.H .....n..... ....K....b...5Y'.......GJ1....fH..c......V.D.d.....f..y.... @......$........Cj.....Z.#Mx\.....h..c..p!......u.......!M.I.....P.F..h...=z:.G5.U..Xj....../.. ...3..<Aj.Ls...p..Y..^y......F...Yx.&..Ke).?.#....T3g.Z!....&.N.8.7..e.T..=...DR....E........(.g<......$.%'.)....k....t./H.V+...........4..RX.\._E3..H|Q./..v.K.uMNX..6[...^..{z....o.G...[...w.]s.9.....n.lA\.T.....9.O!..e\...+ga:..dC(...&x...S.f.4.Ub...fr...c>_.F.4.?.'.EJ.3ui_.M.h.n....5.......N.<..]5+;.h_..X.u..C".........*SIoN.R{...5eP~&<..............}].s..S.*j..H.Wq...C2..3....;.~..
+Packet Count# 5
+Packet size: 103 bytes
+Timestamp: 1384042145:258180 seconds
+Source Port: 41929 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 1941115272 Acknowledgment Number: 2826939394 
+
+Payload Size 37 bytes:
+.... .K....n..D...........Y..B...;...
+Packet Count# 6
+Packet size: 159 bytes
+Timestamp: 1384042145:258352 seconds
+Source Port: 41929 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 2561872264 Acknowledgment Number: 2826939394 
+
+Payload Size 93 bytes:
+....X.....x..n.x]......@..Y(...$.\3#.....[ .%..?.}.....)!..9...8...)...D...uI7......>..5. ..o
+Packet Count# 7
+Packet size: 66 bytes
+Timestamp: 1384042145:279453 seconds
+Source Port: 47873 Destination Port: 41929 
+Source Address: 74.125.225.46 Destination Address: 74.125.225.46 
+Sequence Number: 2826939394 Acknowledgment Number: 1941115272 
+
+
+Packet Count# 8
+Packet size: 66 bytes
+Timestamp: 1384042145:295365 seconds
+Source Port: 47873 Destination Port: 41929 
+Source Address: 74.125.225.46 Destination Address: 74.125.225.46 
+Sequence Number: 2826939394 Acknowledgment Number: 2561872264 
+
+
+Packet Count# 9
+Packet size: 103 bytes
+Timestamp: 1384042145:295366 seconds
+Source Port: 47873 Destination Port: 41929 
+Source Address: 74.125.225.46 Destination Address: 74.125.225.46 
+Sequence Number: 2826939394 Acknowledgment Number: 2561872264 
+
+Payload Size 37 bytes:
+.... k.....n[..s..0....Y^...0..d<.b..
+Packet Count# 10
+Packet size: 66 bytes
+Timestamp: 1384042145:341349 seconds
+Source Port: 47873 Destination Port: 41929 
+Source Address: 74.125.225.46 Destination Address: 74.125.225.46 
+Sequence Number: 3447696386 Acknowledgment Number: 4122153352 
+
+
+Packet Count# 11
+Packet size: 122 bytes
+Timestamp: 1384042145:355699 seconds
+Source Port: 47873 Destination Port: 41929 
+Source Address: 74.125.225.46 Destination Address: 74.125.225.46 
+Sequence Number: 3447696386 Acknowledgment Number: 4122153352 
+
+Payload Size 56 bytes:
+....3....4.6F..^.G.fq.v."...\.R.Ly....S.Pv.....)...(R...
+Packet Count# 12
+Packet size: 66 bytes
+Timestamp: 1384042145:355788 seconds
+Source Port: 41929 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 4122153352 Acknowledgment Number: 92318722 
+
+
+Packet Count# 13
+Packet size: 109 bytes
+Timestamp: 1384042145:357122 seconds
+Source Port: 47873 Destination Port: 41929 
+Source Address: 74.125.225.46 Destination Address: 74.125.225.46 
+Sequence Number: 92318722 Acknowledgment Number: 4122153352 
+
+Payload Size 43 bytes:
+....&."....t..$..j"...c]d.W.P.1.z@.V.....7.
+Packet Count# 14
+Packet size: 99 bytes
+Timestamp: 1384042145:456796 seconds
+Source Port: 47873 Destination Port: 41929 
+Source Address: 74.125.225.46 Destination Address: 74.125.225.46 
+Sequence Number: 2575543298 Acknowledgment Number: 4122153352 
+
+Payload Size 33 bytes:
+.....T.X..!B4....... ..........].
+Packet Count# 15
+Packet size: 121 bytes
+Timestamp: 1384042145:456798 seconds
+Source Port: 47873 Destination Port: 2761 
+Source Address: 173.194.46.85 Destination Address: 173.194.46.85 
+Sequence Number: 1975557301 Acknowledgment Number: 4095567887 
+
+Payload Size 55 bytes:
+....27^'X....*b.G...A.....i#..9.|...:v.-....<.].ng....K
+Packet Count# 16
+Packet size: 78 bytes
+Timestamp: 1384042145:456880 seconds
+Source Port: 41929 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 4122153352 Acknowledgment Number: 813739010 
+
+
+Packet Count# 17
+Packet size: 66 bytes
+Timestamp: 1384042145:656716 seconds
+Source Port: 2761 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 4095567887 Acknowledgment Number: 2898304181 
+
+
+Packet Count# 18
+Packet size: 939 bytes
+Timestamp: 1384042145:904789 seconds
+Source Port: 47873 Destination Port: 41929 
+Source Address: 74.125.225.46 Destination Address: 74.125.225.46 
+Sequence Number: 813739010 Acknowledgment Number: 4122153352 
+
+Payload Size 873 bytes:
+....dlb........}s4.H@.Sa.}..].\...Mn..D.A;.bfU......<.KZ.g&.R..V.:>..O.#....n#e..|.....0.......s.....`>+....&...T.b.~Y....a8^........b.T......h/2.n).Q....`9.`......4;.{..6_...3..Q..l[)......m.5.uL.z..$..._......mue.W.Z.p..O..,i.D.iIN}..,.....c3=`.y...+..@......<-.H..]..R7.H7\. ...Y.....+u..9'.....)......h.w.I.w.k!.H....K..7............[...y4F....[(t.Ph!..~..T.P0?.l6....F..;.K.qS.....!K....N......!=..g8.b.....b.<].....3+....[U..nC.m.....!!.....y...X.....[.a...D..*m..%.w......C*.`I&,.=SEX|Q`........%.S...k.....}Z&d....8-..$lv .i|V....-........(....}.....T,...AUe]m.?4..!...xW.\..50O{.xRt6.*K.j.O!6.o..v....`...kWS....[...R ......GC.L.Q4...,..B.`.j..R.......3B....o...?.m...y......a.)f+...q.;_......".wV...wi.I7DU.19.e...#4.LI5b..7.E.......k...... ......^...f4....w...HH-......BFlL...F...R....V.BQUE...z....<Y.0j...(.~....%...[....[L.h?.`....e.%.Q%n.B|.x....Y.#n.O.)....
+Packet Count# 19
+Packet size: 66 bytes
+Timestamp: 1384042145:904881 seconds
+Source Port: 41929 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 4122153352 Acknowledgment Number: 3129191426 
+
+
+Packet Count# 20
+Packet size: 74 bytes
+Timestamp: 1384042146:573531 seconds
+Source Port: 8 Destination Port: 21581 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 117440768 Acknowledgment Number: 1684234849 
+
+Payload Size 16 bytes:
+qrstuvwabcdefghi
+Packet Count# 21
+Packet size: 74 bytes
+Timestamp: 1384042146:621437 seconds
+Source Port: 0 Destination Port: 21589 
+Source Address: 216.47.143.52 Destination Address: 216.47.143.52 
+Sequence Number: 117440768 Acknowledgment Number: 1684234849 
+
+Payload Size 16 bytes:
+qrstuvwabcdefghi
+Packet Count# 22
+Packet size: 147 bytes
+Timestamp: 1384042146:961404 seconds
+Source Port: 96 Destination Port: 0 
+Source Address: 0.0.0.0 Destination Address: 0.0.0.0 
+Sequence Number: 17915136 Acknowledgment Number: 33022 
+
+
+Packet Count# 23
+Packet size: 1484 bytes
+Timestamp: 1384042147:490307 seconds
+Source Port: 31433 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 58448224 Acknowledgment Number: 3121560388 
+
+Payload Size 1418 bytes:
+....n.q.....v.eT..?.;.......R.jS.........&!'..".}-...h ..>K?......uFc..B.E...J.0...........6.*.RqF....&..e...P....{.._a.X...(9.8'7.....C.9.e>^....._.....i..g&.<.L...z..."$.2...peRL.....21....l..._../T.b..|.. ....B....d...\..../...........6....X.B=Vx|....:.....M.S.O*d|:T.../...................<_..K/.t...$np.].....WH&.\%..6M-.tf...W.....:.O.F%j...1....].....<xV~W^.P....fd..5..71......x......7.9....8.w2.I...].....+....v......u....n::vI...S....."rw.....2^j...W(.* l..96.j|.Z}.!.]zu.J;......X.e.:....9..)9.Rp+..|.L...........u.b.....(LS..p..6R...(.(.X......X>.QMS.......].I..d.u.....Q.+...x.{.].*.....):....tV.....NM._....D'...`....K.(E7B0...&z.J...v=.....6.O..+..~{i.?..v.u?..Hr.bS2...K.2....G..=.-....Z..g.hw.R.."......u.t+.%]...5.......l.4....(..C.!..N.A.1....s...z....bA.I.......(P....GX...7.....L............7}...........Z..~>+.;.f)w.8ypj.B.4..9.....d..$x.....j..".........l}..0..2.E..../..CBs.F]DB@*..O....M.(....."c..?d...3@r.nk......@Ho%~s....A2Q.|..O.6{.u,..&XT.~j.....D.m-..#.l..c..l.p..=kM.lm......oW......q8..n.;....Xs@...x....<|.h./.\hy.l..K..8.@do...g2....Z..}..Xm..<.6.FD...(.*..2.p;`..8.4w...j.6...'.L..G....$_.3.d.[..P...g...:...I.Q7.P.z.o..=].q....u....'pI-...T....q....)...U=...z..H...*....(..&.~.c. G.<.*]..6.......+....#(,....a.........b...V...(v....O>.k.....R.F..|.nv|.-....."uJ.B.F...n.{=wX`.h........-..g.....&..6.r>.......K.H..y..vt..;..j...3.'..j.bjsi.X...R....'.0...O2I.4F...,..,...(..~...VR.
+Packet Count# 24
+Packet size: 1323 bytes
+Timestamp: 1384042147:490481 seconds
+Source Port: 31433 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 2374031712 Acknowledgment Number: 3121560388 
+
+Payload Size 1257 bytes:
+.....%.....h...M. ..B.[...<...4.$/...B]....Q......,.6kS..QFE7..x..>8x....1..).`a5I....N$..U$.......+...,s^...}I.r.J.+M.,..o.d-...hW.N.>.72.s)~....X....y.0Tn5..~.o..<..C..Vx.5.?......+tl....j...."d..vQr.....3...;..f....)...D.$'2.K7..s.x...ra..K.z8.c..7.TYy.P.E.5R............A...+.vx...).#.}.7.F....3E+|,..M.:.({.|c..!.......jp.+....U.H$.3...[.(Y.-.M....2..n..?.,.ik..'.]......,.0.B..j.:B...+..^l..9k.......&..8.......J<(..2Y..6....Am.c...-R...........J4.(v3.OA>p9K5..1.?....F.....y.@{.L....F.d.2.0.2.^....jn.s...."p..w........u....sf..z...?V.G.V^./(.C.$<`...Z..[.0,Dq<....R.....T.H}.....C.t...^..m.b......X...hw.W........h..[..-h....../]...V...b..&.......^!.#R...h.=\zqyL.......(~..3...2...W.;-.rY.8....|N.\IWb.....:p:P74.~%.G!R......,..^}c....3;0......sK|.....Z.x...\.......,X..$Q..\..d...1.d.@|..v\1+.....l.<.%p.....C.......6...J..OY...~t...l.y<..IB............4BlN.7.!....'...=..x......C.;....O...w../0=.7......de..]$2Q.9B.........9..8GY.....{..d..Z....8.C;gh..w`....>.W.7W-.(;..\..>.q...S.N?... N~.f........./...M.... U....Z:w...j4....K.3...H..N.6......l.S.^H.R........#(&...I.>B.:F(.x.;.."k.K&..<..u...`X..v[...J...YLia...I.,......&8...O].8*..P*..}.r...Qi<.H....c..<..mi..[.^.u....@....e.Bjb.<,2...5>.....5e*.Q.*..D.h)T.o.h.q.Iyiu..4...D:j..]....a~.|..
+Packet Count# 25
+Packet size: 175 bytes
+Timestamp: 1384042147:490670 seconds
+Source Port: 31433 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 1988483424 Acknowledgment Number: 3121560388 
+
+Payload Size 109 bytes:
+....h(...`.y.V.c...-H..}...!Yy........]...U?.X...7l.`%.q.I-b...*R..".YCI.3..M.?......-}..(.......5c...kf...C.
+Packet Count# 26
+Packet size: 66 bytes
+Timestamp: 1384042147:513747 seconds
+Source Port: 47873 Destination Port: 31433 
+Source Address: 173.194.46.85 Destination Address: 173.194.46.85 
+Sequence Number: 3121560388 Acknowledgment Number: 2374031712 
+
+
+Packet Count# 27
+Packet size: 66 bytes
+Timestamp: 1384042147:517039 seconds
+Source Port: 47873 Destination Port: 31433 
+Source Address: 173.194.46.85 Destination Address: 173.194.46.85 
+Sequence Number: 3121560388 Acknowledgment Number: 1988483424 
+
+
+Packet Count# 28
+Packet size: 66 bytes
+Timestamp: 1384042147:517041 seconds
+Source Port: 47873 Destination Port: 31433 
+Source Address: 173.194.46.85 Destination Address: 173.194.46.85 
+Sequence Number: 3121560388 Acknowledgment Number: 3817199968 
+
+
+Packet Count# 29
+Packet size: 74 bytes
+Timestamp: 1384042147:575085 seconds
+Source Port: 8 Destination Port: 21325 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 134217984 Acknowledgment Number: 1684234849 
+
+Payload Size 16 bytes:
+qrstuvwabcdefghi
+Packet Count# 30
+Packet size: 119 bytes
+Timestamp: 1384042147:585606 seconds
+Source Port: 47873 Destination Port: 31433 
+Source Address: 173.194.46.85 Destination Address: 173.194.46.85 
+Sequence Number: 3121560388 Acknowledgment Number: 3817199968 
+
+Payload Size 53 bytes:
+....0{...".#..f.^..".(.-^..@......D.V.vd..RO^..R.....
+Packet Count# 31
+Packet size: 109 bytes
+Timestamp: 1384042147:592093 seconds
+Source Port: 47873 Destination Port: 31433 
+Source Address: 173.194.46.85 Destination Address: 173.194.46.85 
+Sequence Number: 4010752836 Acknowledgment Number: 3817199968 
+
+Payload Size 43 bytes:
+....&z.IN....J..].f07...y...."..@...;......
+Packet Count# 32
+Packet size: 120 bytes
+Timestamp: 1384042147:592095 seconds
+Source Port: 47873 Destination Port: 31433 
+Source Address: 173.194.46.85 Destination Address: 173.194.46.85 
+Sequence Number: 437271364 Acknowledgment Number: 3817199968 
+
+Payload Size 54 bytes:
+....1..Y....Y......g(;......B...U.N....{.....R\.|;^i&.
+Packet Count# 33
+Packet size: 99 bytes
+Timestamp: 1384042147:592095 seconds
+Source Port: 47873 Destination Port: 31433 
+Source Address: 173.194.46.85 Destination Address: 173.194.46.85 
+Sequence Number: 1343241028 Acknowledgment Number: 3817199968 
+
+Payload Size 33 bytes:
+......*&...N|?x.o...ac...q.=.e..`
+Packet Count# 34
+Packet size: 66 bytes
+Timestamp: 1384042147:592176 seconds
+Source Port: 31433 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 3817199968 Acknowledgment Number: 1896889156 
+
+
+Packet Count# 35
+Packet size: 74 bytes
+Timestamp: 1384042147:667771 seconds
+Source Port: 0 Destination Port: 21333 
+Source Address: 216.47.143.52 Destination Address: 216.47.143.52 
+Sequence Number: 134217984 Acknowledgment Number: 1684234849 
+
+Payload Size 16 bytes:
+qrstuvwabcdefghi
+Packet Count# 36
+Packet size: 92 bytes
+Timestamp: 1384042148:395968 seconds
+Source Port: 35072 Destination Port: 35072 
+Source Address: 192.168.1.111 Destination Address: 192.168.1.111 
+Sequence Number: 74791424 Acknowledgment Number: 268515011 
+
+Payload Size 58 bytes:
+.....:u..6.......... FHFAEBEECACACACACACACACACACACAAA.. ..
+Packet Count# 37
+Packet size: 74 bytes
+Timestamp: 1384042148:579573 seconds
+Source Port: 8 Destination Port: 21069 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 150995200 Acknowledgment Number: 1684234849 
+
+Payload Size 16 bytes:
+qrstuvwabcdefghi
+Packet Count# 38
+Packet size: 74 bytes
+Timestamp: 1384042148:632176 seconds
+Source Port: 0 Destination Port: 21077 
+Source Address: 216.47.143.52 Destination Address: 216.47.143.52 
+Sequence Number: 150995200 Acknowledgment Number: 1684234849 
+
+Payload Size 16 bytes:
+qrstuvwabcdefghi
+Packet Count# 39
+Packet size: 92 bytes
+Timestamp: 1384042149:114472 seconds
+Source Port: 35072 Destination Port: 35072 
+Source Address: 192.168.1.111 Destination Address: 192.168.1.111 
+Sequence Number: 74791424 Acknowledgment Number: 268515011 
+
+Payload Size 58 bytes:
+.....:u..6.......... FHFAEBEECACACACACACACACACACACAAA.. ..
+Packet Count# 40
+Packet size: 74 bytes
+Timestamp: 1384042149:581211 seconds
+Source Port: 8 Destination Port: 20813 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 167772416 Acknowledgment Number: 1684234849 
+
+Payload Size 16 bytes:
+qrstuvwabcdefghi
+Packet Count# 41
+Packet size: 74 bytes
+Timestamp: 1384042149:658318 seconds
+Source Port: 0 Destination Port: 20821 
+Source Address: 216.47.143.52 Destination Address: 216.47.143.52 
+Sequence Number: 167772416 Acknowledgment Number: 1684234849 
+
+Payload Size 16 bytes:
+qrstuvwabcdefghi
+Packet Count# 42
+Packet size: 42 bytes
+Timestamp: 1384042150:15134 seconds
+Source Port: 256 Destination Port: 8 
+Source Address: 252.208.192.168 Destination Address: 252.208.192.168 
+Sequence Number: 16778246 Acknowledgment Number: 3547205452 
+
+Payload Size 1988 bytes:
+ACACACACACAAA.. ...=.e..`.N....{.....R\.|;^i&..q.I-b...*R..".YCI.3..M.?......-}..(.......5c...kf...C.}I.r.J.+M.,..o.d-...hW.N.>.72.s)~....X....y.0Tn5..~.o..<..C..Vx.5.?......+tl....j...."d..vQr.....3...;..f....)...D.$'2.K7..s.x...ra..K.z8.c..7.TYy.P.E.5R............A...+.vx...).#.}.7.F....3E+|,..M.:.({.|c..!.......jp.+....U.H$.3...[.(Y.-.M....2..n..?.,.ik..'.]......,.0.B..j.:B...+..^l..9k.......&..8.......J<(..2Y..6....Am.c...-R...........J4.(v3.OA>p9K5..1.?....F.....y.@{.L....F.d.2.0.2.^....jn.s...."p..w........u....sf..z...?V.G.V^./(.C.$<`...Z..[.0,Dq<....R.....T.H}.....C.t...^..m.b......X...hw.W........h..[..-h....../]...V...b..&.......^!.#R...h.=\zqyL.......(~..3...2...W.;-.rY.8....|N.\IWb.....:p:P74.~%.G!R......,..^}c....3;0......sK|.....Z.x...\.......,X..$Q..\..d...1.d.@|..v\1+.....l.<.%p.....C.......6...J..OY...~t...l.y<..IB............4BlN.7.!....'...=..x......C.;....O...w../0=.7......de..]$2Q.9B.........9..8GY.....{..d..Z....8.C;gh..w`....>.W.7W-.(;..\..>.q...S.N?... N~.f........./...M.... U....Z:w...j4....K.3...H..N.6......l.S.^H.R........#(&...I.>B.:F(.x.;.."k.K&..<..u...`X..v[...J...YLia...I.,......&8...O].8*..P*..}.r...Qi<.H....c..<..mi..[.^.u....@....e.Bjb.<,2...5>.....5e*.Q.*..D.h)T.o.h.q.Iyiu..4...D:j..]....a~.|.....V...(v....O>.k.....R.F..|.nv|.-....."uJ.B.F...n.{=wX`.h........-..g.....&..6.r>.......K.H..y..vt..;..j...3.'..j.bjsi.X...R....'.0...O2I.4F...,..,...(..~...VR..... ...............@...............`.......................................0...............P...............p....................... ...............@...............`.......................................0....................... ...............@...............`.......................................0...............P...............p....................... ...............@...............`.......................................0....................... ...............@...............`.......................................0...............P...............p.....................
+Packet Count# 43
+Packet size: 42 bytes
+Timestamp: 1384042150:81177 seconds
+Source Port: 256 Destination Port: 8 
+Source Address: 27.172.192.168 Destination Address: 27.172.192.168 
+Sequence Number: 33555462 Acknowledgment Number: 2542759256 
+
+Payload Size 2044 bytes:
+....Xm........L.n......iabcdefghijklmnopqrstuvwabcdefghiACACACACACAAA.. ...=.e..`.N....{.....R\.|;^i&..q.I-b...*R..".YCI.3..M.?......-}..(.......5c...kf...C.}I.r.J.+M.,..o.d-...hW.N.>.72.s)~....X....y.0Tn5..~.o..<..C..Vx.5.?......+tl....j...."d..vQr.....3...;..f....)...D.$'2.K7..s.x...ra..K.z8.c..7.TYy.P.E.5R............A...+.vx...).#.}.7.F....3E+|,..M.:.({.|c..!.......jp.+....U.H$.3...[.(Y.-.M....2..n..?.,.ik..'.]......,.0.B..j.:B...+..^l..9k.......&..8.......J<(..2Y..6....Am.c...-R...........J4.(v3.OA>p9K5..1.?....F.....y.@{.L....F.d.2.0.2.^....jn.s...."p..w........u....sf..z...?V.G.V^./(.C.$<`...Z..[.0,Dq<....R.....T.H}.....C.t...^..m.b......X...hw.W........h..[..-h....../]...V...b..&.......^!.#R...h.=\zqyL.......(~..3...2...W.;-.rY.8....|N.\IWb.....:p:P74.~%.G!R......,..^}c....3;0......sK|.....Z.x...\.......,X..$Q..\..d...1.d.@|..v\1+.....l.<.%p.....C.......6...J..OY...~t...l.y<..IB............4BlN.7.!....'...=..x......C.;....O...w../0=.7......de..]$2Q.9B.........9..8GY.....{..d..Z....8.C;gh..w`....>.W.7W-.(;..\..>.q...S.N?... N~.f........./...M.... U....Z:w...j4....K.3...H..N.6......l.S.^H.R........#(&...I.>B.:F(.x.;.."k.K&..<..u...`X..v[...J...YLia...I.,......&8...O].8*..P*..}.r...Qi<.H....c..<..mi..[.^.u....@....e.Bjb.<,2...5>.....5e*.Q.*..D.h)T.o.h.q.Iyiu..4...D:j..]....a~.|.....V...(v....O>.k.....R.F..|.nv|.-....."uJ.B.F...n.{=wX`.h........-..g.....&..6.r>.......K.H..y..vt..;..j...3.'..j.bjsi.X...R....'.0...O2I.4F...,..,...(..~...VR..... ...............@...............`.......................................0...............P...............p....................... ...............@...............`.......................................0....................... ...............@...............`.......................................0...............P...............p....................... ...............@...............`.......................................0....................... ...............@...............`.......................................0...............P...............p.....................
+Packet Count# 44
+Packet size: 246 bytes
+Timestamp: 1384042150:480844 seconds
+Source Port: 42441 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 2645698037 Acknowledgment Number: 3809186575 
+
+Payload Size 180 bytes:
+......[.Y..\TA..#..q}.T<......M.\{.N9...~..Iw>B../.j#.Ck....=..k...(......m.. C.e........^..R..a.......3...bF.&..O.. .%nU..mj....;.I.>:....._....O..G.|.J..Vq!s..'./E.,@..m....=....
+Packet Count# 45
+Packet size: 103 bytes
+Timestamp: 1384042150:481069 seconds
+Source Port: 42441 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 1370695157 Acknowledgment Number: 3809186575 
+
+Payload Size 37 bytes:
+.... #q,..< b...@....'Rf..-.$.x.0.].k
+Packet Count# 46
+Packet size: 66 bytes
+Timestamp: 1384042150:561306 seconds
+Source Port: 47873 Destination Port: 42441 
+Source Address: 74.125.239.143 Destination Address: 74.125.239.143 
+Sequence Number: 3809186575 Acknowledgment Number: 1370695157 
+
+
+Packet Count# 47
+Packet size: 66 bytes
+Timestamp: 1384042150:563721 seconds
+Source Port: 47873 Destination Port: 42441 
+Source Address: 74.125.239.143 Destination Address: 74.125.239.143 
+Sequence Number: 3809186575 Acknowledgment Number: 1991452149 
+
+
+Packet Count# 48
+Packet size: 103 bytes
+Timestamp: 1384042150:563723 seconds
+Source Port: 47873 Destination Port: 42441 
+Source Address: 74.125.239.143 Destination Address: 74.125.239.143 
+Sequence Number: 3809186575 Acknowledgment Number: 1991452149 
+
+Payload Size 37 bytes:
+.... ....za'.].a.R9un.Rtv...$!... . .
+Packet Count# 49
+Packet size: 119 bytes
+Timestamp: 1384042150:563724 seconds
+Source Port: 47873 Destination Port: 42441 
+Source Address: 74.125.239.143 Destination Address: 74.125.239.143 
+Sequence Number: 135041807 Acknowledgment Number: 1991452149 
+
+Payload Size 53 bytes:
+....0..[<..8e.U6..Hr...Z.u:+!.w|.y.......RL..E....Z.=
+Packet Count# 50
+Packet size: 66 bytes
+Timestamp: 1384042150:563795 seconds
+Source Port: 42441 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 1991452149 Acknowledgment Number: 1024234255 
+
+
+Packet Count# 51
+Packet size: 99 bytes
+Timestamp: 1384042150:583768 seconds
+Source Port: 47873 Destination Port: 42441 
+Source Address: 74.125.239.143 Destination Address: 74.125.239.143 
+Sequence Number: 1024234255 Acknowledgment Number: 1991452149 
+
+Payload Size 33 bytes:
+......c8...O..L.#!%Q.!g.Y_.J....v
+Packet Count# 52
+Packet size: 66 bytes
+Timestamp: 1384042150:783805 seconds
+Source Port: 42441 Destination Port: 47873 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 1991452149 Acknowledgment Number: 1577882383 
+
+
+Packet Count# 53
+Packet size: 42 bytes
+Timestamp: 1384042151:474300 seconds
+Source Port: 256 Destination Port: 8 
+Source Address: 252.208.192.168 Destination Address: 252.208.192.168 
+Sequence Number: 16778246 Acknowledgment Number: 3547205452 
+
+Payload Size 1988 bytes:
+...O..L.#!%Q.!g.Y_.J....vy.......RL..E....Z.=.Ck....=..k...(......m.. C.e........^..R..a.......3...bF.&..O.. .%nU..mj....;.I.>:....._....O..G.|.J..Vq!s..'./E.,@..m....=......+tl....j...."d..vQr.....3...;..f....)...D.$'2.K7..s.x...ra..K.z8.c..7.TYy.P.E.5R............A...+.vx...).#.}.7.F....3E+|,..M.:.({.|c..!.......jp.+....U.H$.3...[.(Y.-.M....2..n..?.,.ik..'.]......,.0.B..j.:B...+..^l..9k.......&..8.......J<(..2Y..6....Am.c...-R...........J4.(v3.OA>p9K5..1.?....F.....y.@{.L....F.d.2.0.2.^....jn.s...."p..w........u....sf..z...?V.G.V^./(.C.$<`...Z..[.0,Dq<....R.....T.H}.....C.t...^..m.b......X...hw.W........h..[..-h....../]...V...b..&.......^!.#R...h.=\zqyL.......(~..3...2...W.;-.rY.8....|N.\IWb.....:p:P74.~%.G!R......,..^}c....3;0......sK|.....Z.x...\.......,X..$Q..\..d...1.d.@|..v\1+.....l.<.%p.....C.......6...J..OY...~t...l.y<..IB............4BlN.7.!....'...=..x......C.;....O...w../0=.7......de..]$2Q.9B.........9..8GY.....{..d..Z....8.C;gh..w`....>.W.7W-.(;..\..>.q...S.N?... N~.f........./...M.... U....Z:w...j4....K.3...H..N.6......l.S.^H.R........#(&...I.>B.:F(.x.;.."k.K&..<..u...`X..v[...J...YLia...I.,......&8...O].8*..P*..}.r...Qi<.H....c..<..mi..[.^.u....@....e.Bjb.<,2...5>.....5e*.Q.*..D.h)T.o.h.q.Iyiu..4...D:j..]....a~.|.....V...(v....O>.k.....R.F..|.nv|.-....."uJ.B.F...n.{=wX`.h........-..g.....&..6.r>.......K.H..y..vt..;..j...3.'..j.bjsi.X...R....'.0...O2I.4F...,..,...(..~...VR..... ...............@...............`.......................................0...............P...............p....................... ...............@...............`.......................................0....................... ...............@...............`.......................................0...............P...............p....................... ...............@...............`.......................................0....................... ...............@...............`.......................................0...............P...............p.....................
+Packet Count# 54
+Packet size: 42 bytes
+Timestamp: 1384042151:482832 seconds
+Source Port: 256 Destination Port: 8 
+Source Address: 27.172.192.168 Destination Address: 27.172.192.168 
+Sequence Number: 33555462 Acknowledgment Number: 2542759256 
+
+Payload Size 2044 bytes:
+....Xm........L.n......i...^..@..^..........&.........c8...O..L.#!%Q.!g.Y_.J....vy.......RL..E....Z.=.Ck....=..k...(......m.. C.e........^..R..a.......3...bF.&..O.. .%nU..mj....;.I.>:....._....O..G.|.J..Vq!s..'./E.,@..m....=......+tl....j...."d..vQr.....3...;..f....)...D.$'2.K7..s.x...ra..K.z8.c..7.TYy.P.E.5R............A...+.vx...).#.}.7.F....3E+|,..M.:.({.|c..!.......jp.+....U.H$.3...[.(Y.-.M....2..n..?.,.ik..'.]......,.0.B..j.:B...+..^l..9k.......&..8.......J<(..2Y..6....Am.c...-R...........J4.(v3.OA>p9K5..1.?....F.....y.@{.L....F.d.2.0.2.^....jn.s...."p..w........u....sf..z...?V.G.V^./(.C.$<`...Z..[.0,Dq<....R.....T.H}.....C.t...^..m.b......X...hw.W........h..[..-h....../]...V...b..&.......^!.#R...h.=\zqyL.......(~..3...2...W.;-.rY.8....|N.\IWb.....:p:P74.~%.G!R......,..^}c....3;0......sK|.....Z.x...\.......,X..$Q..\..d...1.d.@|..v\1+.....l.<.%p.....C.......6...J..OY...~t...l.y<..IB............4BlN.7.!....'...=..x......C.;....O...w../0=.7......de..]$2Q.9B.........9..8GY.....{..d..Z....8.C;gh..w`....>.W.7W-.(;..\..>.q...S.N?... N~.f........./...M.... U....Z:w...j4....K.3...H..N.6......l.S.^H.R........#(&...I.>B.:F(.x.;.."k.K&..<..u...`X..v[...J...YLia...I.,......&8...O].8*..P*..}.r...Qi<.H....c..<..mi..[.^.u....@....e.Bjb.<,2...5>.....5e*.Q.*..D.h)T.o.h.q.Iyiu..4...D:j..]....a~.|.....V...(v....O>.k.....R.F..|.nv|.-....."uJ.B.F...n.{=wX`.h........-..g.....&..6.r>.......K.H..y..vt..;..j...3.'..j.bjsi.X...R....'.0...O2I.4F...,..,...(..~...VR..... ...............@...............`.......................................0...............P...............p....................... ...............@...............`.......................................0....................... ...............@...............`.......................................0...............P...............p....................... ...............@...............`.......................................0....................... ...............@...............`.......................................0...............P...............p.....................
+Packet Count# 55
+Packet size: 175 bytes
+Timestamp: 1384042151:822169 seconds
+Source Port: 33479 Destination Port: 27655 
+Source Address: 192.168.1.105 Destination Address: 192.168.1.105 
+Sequence Number: 4023880960 Acknowledgment Number: 1163078989 
+
+Payload Size 125 bytes:
+ * HTTP/1.1..Host:239.255.255.250:1900..ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1..Man:"ssdp:discover"..MX:3....
+Packet Count# 56
+Packet size: 391 bytes
+Timestamp: 1384042151:830826 seconds
+Source Port: 27655 Destination Port: 33479 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 2185520385 Acknowledgment Number: 1347703880 
+
+Payload Size 349 bytes:
+HTTP/1.1 200 OK..Cache-Control: max-age=60..Date: Sat, 09 Nov 2013 18:09:10 GMT..Ext: ..Location: http://192.168.1.1:1780/InternetGatewayDevice.xml..Server: POSIX UPnP/1.0 linux/5.70.13.0..ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1..USN: uuid:D28E8940-7CEC-5E19-240A-4C9CED1E206D::urn:schemas-upnp-org:device:InternetGatewayDevice:1....
+Packet Count# 57
+Packet size: 175 bytes
+Timestamp: 1384042151:879998 seconds
+Source Port: 29141 Destination Port: 27655 
+Source Address: 192.168.1.111 Destination Address: 192.168.1.111 
+Sequence Number: 4207512832 Acknowledgment Number: 1163078989 
+
+Payload Size 125 bytes:
+ * HTTP/1.1..Host:239.255.255.250:1900..ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1..Man:"ssdp:discover"..MX:3....
+Packet Count# 58
+Packet size: 320 bytes
+Timestamp: 1384042151:892250 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 4220132865 Acknowledgment Number: 1230262094 
+
+Payload Size 270 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/WFADevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: uuid:134FB575-CB17-50AD-118A-94C0420EC0D6..USN: uuid:134FB575-CB17-50AD-118A-94C0420EC0D6....
+Packet Count# 59
+Packet size: 311 bytes
+Timestamp: 1384042151:895229 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 2180846849 Acknowledgment Number: 1230262094 
+
+Payload Size 261 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/WFADevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: upnp:rootdevice..USN: uuid:134FB575-CB17-50AD-118A-94C0420EC0D6::upnp:rootdevice....
+Packet Count# 60
+Packet size: 385 bytes
+Timestamp: 1384042151:898897 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 3372441345 Acknowledgment Number: 1230262094 
+
+Payload Size 335 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/WFADevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: urn:schemas-wifialliance-org:service:WFAWLANConfig:1..USN: uuid:134FB575-CB17-50AD-118A-94C0420EC0D6::urn:schemas-wifialliance-org:service:WFAWLANConfig:1....
+Packet Count# 61
+Packet size: 395 bytes
+Timestamp: 1384042151:902581 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 2297850113 Acknowledgment Number: 1230262094 
+
+Payload Size 345 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/InternetGatewayDevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: urn:schemas-upnp-org:device:InternetGatewayDevice:1..USN: uuid:D28E8940-7CEC-5E19-240A-4C9CED1E206D::urn:schemas-upnp-org:device:InternetGatewayDevice:1....
+Packet Count# 62
+Packet size: 323 bytes
+Timestamp: 1384042151:909458 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 2271551745 Acknowledgment Number: 1230262094 
+
+Payload Size 273 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/InternetGatewayDevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: upnp:rootdevice..USN: uuid:D28E8940-7CEC-5E19-240A-4C9CED1E206D::upnp:rootdevice....
+Packet Count# 63
+Packet size: 387 bytes
+Timestamp: 1384042151:913127 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 1100964097 Acknowledgment Number: 1230262094 
+
+Payload Size 337 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/InternetGatewayDevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: urn:schemas-upnp-org:service:Layer3Forwarding:1..USN: uuid:D28E8940-7CEC-5E19-240A-4C9CED1E206D::urn:schemas-upnp-org:service:Layer3Forwarding:1....
+Packet Count# 64
+Packet size: 371 bytes
+Timestamp: 1384042151:916653 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 687952129 Acknowledgment Number: 1230262094 
+
+Payload Size 321 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/InternetGatewayDevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: urn:schemas-upnp-org:device:WANDevice:1..USN: uuid:1785B9B1-CA21-CAEE-6522-F8B33CB9B178::urn:schemas-upnp-org:device:WANDevice:1....
+Packet Count# 65
+Packet size: 332 bytes
+Timestamp: 1384042151:919853 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 581249537 Acknowledgment Number: 1230262094 
+
+Payload Size 282 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/InternetGatewayDevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: uuid:1785B9B1-CA21-CAEE-6522-F8B33CB9B178..USN: uuid:1785B9B1-CA21-CAEE-6522-F8B33CB9B178....
+Packet Count# 66
+Packet size: 391 bytes
+Timestamp: 1384042151:927482 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 84436225 Acknowledgment Number: 1230262094 
+
+Payload Size 341 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/InternetGatewayDevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: urn:schemas-upnp-org:device:WANConnectionDevice:1..USN: uuid:0B71C1D7-9214-B503-572B-7EE7919566FE::urn:schemas-upnp-org:device:WANConnectionDevice:1....
+Packet Count# 67
+Packet size: 332 bytes
+Timestamp: 1384042151:930618 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 1390094849 Acknowledgment Number: 1230262094 
+
+Payload Size 282 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/InternetGatewayDevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: uuid:0B71C1D7-9214-B503-572B-7EE7919566FE..USN: uuid:0B71C1D7-9214-B503-572B-7EE7919566FE....
+Packet Count# 68
+Packet size: 332 bytes
+Timestamp: 1384042151:946093 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 2729847297 Acknowledgment Number: 1230262094 
+
+Payload Size 282 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/InternetGatewayDevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: uuid:7CBFA9CC-AEC2-119C-1498-60887EC9EED7..USN: uuid:7CBFA9CC-AEC2-119C-1498-60887EC9EED7....
+Packet Count# 69
+Packet size: 401 bytes
+Timestamp: 1384042151:948157 seconds
+Source Port: 27655 Destination Port: 27655 
+Source Address: 192.168.1.1 Destination Address: 192.168.1.1 
+Sequence Number: 3651301121 Acknowledgment Number: 1230262094 
+
+Payload Size 351 bytes:
+ HTTP/1.1..Host: 239.255.255.250:1900..Cache-Control: max-age=60..Location: http://192.168.1.1:1780/InternetGatewayDevice.xml..NTS: ssdp:alive..Server: POSIX, UPnP/1.0 linux/5.70.13.0..NT: urn:schemas-upnp-org:service:LANHostConfigManagement:1..USN: uuid:7CBFA9CC-AEC2-119C-1498-60887EC9EED7::urn:schemas-upnp-org:service:LANHostConfigManagement:1....
